@@ -1,17 +1,15 @@
 <div align="center">
+  <img src="./assets/profile.png" alt="Hieu.Nguyen header" width="100%" />
+</div>
 
-# Hi there, I'm Hieu.Nguyen 👋
+<br />
 
-### Full-Stack Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Hi+there%2C+I%27m+Hieu.Nguyen+%F0%9F%91%8B;Full-Stack+Developer;Backend+Architecture+%7C+Modern+Frontend+%7C+Clean+Code" alt="Typing SVG" />
+</div>
 
-<p>
-  I enjoy building clean, scalable, and user-friendly web applications with a strong focus on backend architecture, modern frontend experiences, and practical product thinking.
-</p>
-
-<p>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Hieu.Nguyen profile views" />
-</p>
-
 </div>
 
 ---
@@ -29,13 +27,13 @@
 
 ### Backend
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 </p>
 
 ### Frontend
@@ -58,7 +56,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
   <img src="https://img.shields.io/badge/PHPMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="PHPMyAdmin" />
 </p>
 
@@ -67,7 +64,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logoColor=white" alt="Laragon" />
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="ngrok" />
@@ -87,26 +83,6 @@
 </div>
 
 ---
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://facebook.com/nguyen.uc.canh.186227" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://youtube.com/@CảnhNguyễn-v9f" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://www.linkedin.com/in/cảnh-nguyễn-648a79268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/duccank19_0_o" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:nguyenduccanh1523@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
 
 ---
 
