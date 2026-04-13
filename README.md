@@ -74,12 +74,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hieu.Nguyen GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Hieu.Nguyen top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hiuconymoi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Hieu Nguyen GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiuconymoi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Hieu Nguyen top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Hieu.Nguyen streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hiuconymoi&theme=tokyonight&hide_border=true" alt="Hieu.Nguyen streak stats" />
 </div>
 
 ---
